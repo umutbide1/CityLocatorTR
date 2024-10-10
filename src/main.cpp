@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world,uzunca bir süre sonra tekrar cpp yazmak özlendi mi özlenmedi mi tam anlamadım ama :)" << endl;
+    cout << "Hello world,uzunca bir sure sonra cpp yazmak ozlendi mi tam da anlamadim ama olsun :)" << endl;
     
 
 
