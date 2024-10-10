@@ -1,7 +1,6 @@
 all:derle birlestir calistir
 
 
-
 derle:
 	g++ -c -I "./include" ./src/fonksiyon.cpp -o ./lib/fonksiyon.o
 	g++ -c -I "./include" ./src/main.cpp -o ./lib/main.o
